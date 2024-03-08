@@ -1,0 +1,51 @@
+*{
+    color:white;
+    background-color:rgba(0, 0, 0, 0.8);
+}
+.portfolio{
+    text-align: center;
+    font-size: 27px;
+}
+.head{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.details{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+fieldset{
+    border-radius: 20px;
+    box-shadow: 5px 5px 8px gray;
+}
+a{
+    text-decoration: none;
+    
+}
+
+a:hover{
+    
+    color: blue;
+    text-decoration: underline;
+    font-size: 16.5px;
+}
+h2{
+    text-shadow: 5px 5px 7px gray;
+    
+}
+
+.table,.th,.td{
+    border-collapse:collapse;
+    border: 1.5px solid white;
+    padding: 20px;
+    
+   
+}
+summary:hover{
+    font-size: 20px;
+    
+    
+}
+
+
+
